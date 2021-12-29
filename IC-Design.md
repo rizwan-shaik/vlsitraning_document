@@ -2,5 +2,6 @@
 of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integrate into a small chip.
 2. To design an IC we need to develop a code(programe),for this code we use verilog language which is HDL(Hard Description Language).
 3. This IC are build with transistors in it with the gates too,we use the gates in verilog logics codes 
-4. lets use design a Hafe Adder circuit 
+4. lets use design a Hafe Adder circuit  ![image](https://user-images.githubusercontent.com/93262817/147666166-c30646a2-cc2b-401e-9438-b4e3d1bfa64e.png)
+
                      
