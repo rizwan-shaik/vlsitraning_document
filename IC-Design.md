@@ -8,6 +8,6 @@ of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integra
     next we write all i/p and o/p and then the gates which are used in the ic and then endmodule
 6. we also write testbench for it which is written to verify wether the dsign is perfectly working or not
 7.              ![image](https://user-images.githubusercontent.com/93262817/147732940-ae648084-f271-4af7-9ec0-fac3e86cf641.png)
-8.  
+8.  one
 
                      
