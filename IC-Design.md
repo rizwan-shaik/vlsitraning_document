@@ -4,4 +4,10 @@ of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integra
 3. This IC are build with transistors in it with the gates too,we use the gates in verilog logics codes 
 4. lets use design a Hafe Adder circuit  
                             ![image](https://user-images.githubusercontent.com/93262817/147666166-c30646a2-cc2b-401e-9438-b4e3d1bfa64e.png)
+5. In this image (or code) we first write module which is keyword and and next in side the bracets we write all inputs and outputs which is called port list,
+    next we write all i/p and o/p and then the gates which are used in the ic and then endmodule
+6. we also write testbench for it which is written to verify wether the dsign is perfectly working or not
+7.              ![image](https://user-images.githubusercontent.com/93262817/147732940-ae648084-f271-4af7-9ec0-fac3e86cf641.png)
+8.  
+
                      
