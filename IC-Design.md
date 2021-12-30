@@ -7,7 +7,7 @@ of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integra
 5. In this image (or code) we first write module which is keyword and and next in side the bracets we write all inputs and outputs which is called port list,
     next we write all i/p and o/p and then the gates which are used in the ic and then endmodule
 6. we also write testbench for it which is written to verify wether the dsign is perfectly working or not
-7.              ![image](https://user-images.githubusercontent.com/93262817/147732940-ae648084-f271-4af7-9ec0-fac3e86cf641.png)
-8.  one
+7.             ![image](https://user-images.githubusercontent.com/93262817/147733071-eb542082-bb04-4013-815c-b9eb72380108.png)
+8. 
 
                      
