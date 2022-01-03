@@ -4,6 +4,9 @@ of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integra
 3. This IC are build with transistors in it with the gates too,we use the gates in verilog logics codes 
 4. lets use design a Hafe Adder circuit 
 5.            ![image](https://user-images.githubusercontent.com/93262817/147926355-93f25fd0-beee-4a0e-8535-60d0c90d8b2f.png)
+  
+    ![image](https://user-images.githubusercontent.com/93262817/147926424-2e242555-0e31-4862-86a6-6664a04e3c98.png)
+
 
 
 
